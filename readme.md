@@ -1,4 +1,4 @@
-# 🌸 Project Nova
+# 🌸 Project Nova (aclaro no soy el creador original de nova, esto solo es una platilla para poder modificar, Nova es open soucer y todos los creditos a Navjot Singh)
 
 ## A Fully Local AI Companion with Memory, Emotion, Voice, Avatar Control, and Agentic Abilities
 
