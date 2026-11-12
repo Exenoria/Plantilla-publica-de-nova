@@ -28,3 +28,4 @@ vision.py
 new_stt.py
 #models/
 *.mf
+*.gguf

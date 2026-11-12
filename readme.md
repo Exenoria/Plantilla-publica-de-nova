@@ -320,6 +320,8 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 ### 5️⃣ Install Model directly from HuggingFace to your downloads folder (Recommended)
 https://huggingface.co/Navpy/phi-3.5-AI-Vtuber-json/tree/main
 
+The GGUF model file is not included in this repository. Download it from the link above; if you place it in the project root, the default path below will work.
+
 ### 6️⃣ Fix Modelfile for your system
 ***Note*** - Copy the path where your model is downloaded and paste it in the Modelfile which is inside **assistant_modelfile/** folder
 ```bash
